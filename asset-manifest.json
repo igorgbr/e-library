@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-library-react/static/css/main.ec14278c.chunk.css",
+    "main.js": "/e-library-react/static/js/main.690ffe0c.chunk.js",
+    "main.js.map": "/e-library-react/static/js/main.690ffe0c.chunk.js.map",
+    "runtime-main.js": "/e-library-react/static/js/runtime-main.f1ed1f49.js",
+    "runtime-main.js.map": "/e-library-react/static/js/runtime-main.f1ed1f49.js.map",
+    "static/js/2.f4af78c1.chunk.js": "/e-library-react/static/js/2.f4af78c1.chunk.js",
+    "static/js/2.f4af78c1.chunk.js.map": "/e-library-react/static/js/2.f4af78c1.chunk.js.map",
+    "index.html": "/e-library-react/index.html",
+    "precache-manifest.14e78947848badbcfe40b3abcfb390dc.js": "/e-library-react/precache-manifest.14e78947848badbcfe40b3abcfb390dc.js",
+    "service-worker.js": "/e-library-react/service-worker.js",
+    "static/css/main.ec14278c.chunk.css.map": "/e-library-react/static/css/main.ec14278c.chunk.css.map",
+    "static/js/2.f4af78c1.chunk.js.LICENSE.txt": "/e-library-react/static/js/2.f4af78c1.chunk.js.LICENSE.txt",
+    "static/media/orange.gif": "/e-library-react/static/media/orange.e42bf2e3.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1ed1f49.js",
+    "static/js/2.f4af78c1.chunk.js",
+    "static/css/main.ec14278c.chunk.css",
+    "static/js/main.690ffe0c.chunk.js"
+  ]
+}
